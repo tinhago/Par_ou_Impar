@@ -14,7 +14,7 @@ int main()
     }
     printf("\n Informe o segundo valor inteiro");
   scanf ("%d", & valor2);
-    if ((valor1 %2)==0)
+    if ((valor2 %2)==0)
     {
         printf("\n %d par", valor2);
     }else
@@ -23,7 +23,7 @@ int main()
     }
     printf("\n Informe o terceiro valor inteiro");
   scanf ("%d", & valor3);
-    if ((valor1 %2)==0)
+    if ((valor3 %2)==0)
     {
         printf("\n %d par", valor3);
     }else
